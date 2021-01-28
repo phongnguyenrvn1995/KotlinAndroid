@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WebService</string>
+    <string name="tv_hint_btn_load">Load</string>
+    <string name="tv_hint_btn_add">Add</string>
+    <string name="act_bar_list_model">List Model</string>
+    <string name="tv_hint_confirm">Confirm</string>
+    <string name="tv_hint_model_name">model name</string>
+    <string name="tv_hint_yyyy_mm_dd_of_birth">YYYY-MM-DD of birth</string>
+    <string name="tv_hint_url_image">url image</string>
+    <string name="tv_hint_back">Back</string>
+    <string name="tv_hint_update">Update</string>
+</resources>
